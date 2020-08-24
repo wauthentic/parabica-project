@@ -1,0 +1,34 @@
+{
+  "name": "parabica-project",
+  "version": "1.0.0",
+  "description": "coffee marketing project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wauthentic/parabica-project.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "wauthentic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wauthentic/parabica-project/issues"
+  },
+  "homepage": "https://github.com/wauthentic/parabica-project#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "mongodb": "^3.6.0",
+    "mongoose": "^5.10.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "object-assign": "^4.1.1"
+  }
+}
